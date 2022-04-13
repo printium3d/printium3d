@@ -47,4 +47,4 @@ Printium3D comes as a "portable app", in a zip file.
 Just download the zip file, and extract to any folder you wish.
 
 ## Download
-https://github.com/printium3d/printium3d/release
+https://github.com/printium3d/printium3d/releases
